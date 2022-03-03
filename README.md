@@ -5,7 +5,7 @@
 Blockchain Developer @CryptexFinance 👨‍💻,
 
 ## Tech Stack
-* 💻 Solidity | Go Lang | TypeScript | Javascript
+* 💻 Solidity | Go Lang | TypeScript | Javascript | Rust | React | Vue.js
 
 [![GuruDev0807's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruDev0807&show_icons=true)](https://github.com/GuruDev0807)
 
