@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/GuruDev0807/GuruDev0807/master/hero.png)
+![Header](https://raw.githubusercontent.com/crisgarner/crisgarner/master/hero.png)
 
 # Hi, I'm GuruDev0807
 
