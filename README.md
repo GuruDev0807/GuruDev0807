@@ -1,8 +1,8 @@
 ![Header](https://raw.githubusercontent.com/crisgarner/crisgarner/master/hero.png)
 
-# Hi, I'm GuruDev0807
+# Hi, I'm Ahmad bin Rahman.
 
-Blockchain Developer @CryptexFinance 👨‍💻,
+Senior Blockchain Developer  (6 years experience).
 
 ## Tech Stack
 * 💻 Solidity | Go Lang | TypeScript | Javascript | Rust | React | Vue.js
