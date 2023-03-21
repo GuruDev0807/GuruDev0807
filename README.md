@@ -1,8 +1,6 @@
-![Header](https://raw.githubusercontent.com/crisgarner/crisgarner/master/hero.png)
-
 # Hi, I'm thanks for visiting my Git.
 
-Senior Blockchain Developer  (6 years experience).
+Senior Software Engineer (Full Stack | Blockchain)
 
 ## Tech Stack
 * 💻 Solidity | Go Lang | TypeScript | Javascript | Rust | React | Vue.js
@@ -12,6 +10,5 @@ Senior Blockchain Developer  (6 years experience).
 <h2>Follow  Me</h2>
 <p align="left">
 	<a href="https://github.com/GuruDev0807"><img src="https://img.shields.io/github/followers/GuruDev0807.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/adam-lim-781211234/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a><img src="https://visitor-badge.glitch.me/badge?page_id=GuruDev0807.visitor-badge" /></a>
 </p>
